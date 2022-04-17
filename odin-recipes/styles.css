@@ -29,8 +29,14 @@ ol{
 li{
     color:darkblue;
     background-color: lawngreen;
+    flex:1;
+    align-items: center;
 }
 img{
     width:400px;
     height:auto;
+}
+.flexboxTest{
+    display:flex;
+
 }
